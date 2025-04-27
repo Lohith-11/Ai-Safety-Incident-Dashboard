@@ -31,7 +31,7 @@ A modern, responsive web application for monitoring and reporting AI safety inci
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-safety-dashboard.git
+git clone https://github.com/Lohith-11/ai-safety-dashboard.git
 cd ai-safety-dashboard
 ```
 
