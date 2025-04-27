@@ -2,7 +2,6 @@
 
 A modern, responsive web application for monitoring and reporting AI safety incidents. Built with React, Tailwind CSS, and Lucide icons, this dashboard provides a comprehensive interface for tracking and managing AI-related safety events.
 
-![Dashboard Preview](https://images.pexels.com/photos/7567444/pexels-photo-7567444.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 ## Features
 
@@ -88,10 +87,6 @@ src/
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
